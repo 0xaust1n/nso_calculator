@@ -1,0 +1,14 @@
+{
+  "name": "nso_cal",
+  "version": "0.0.1",
+  "description": "Bowie.",
+  "main": "app.js",
+  "author": "Austin",
+  "license": "WTFPL",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
